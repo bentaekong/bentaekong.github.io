@@ -579,6 +579,13 @@ background: url('../images/Esperanzabackgroundcover.jpg') no-repeat;
     display: block;
 }
 
+
+
+#single-project {
+   position: relative;
+    right: 150px;
+}
+
 /*single project section styles
 /* ========================================== */
 /*#single-project {
@@ -599,6 +606,9 @@ background: url('../images/Esperanzabackgroundcover.jpg') no-repeat;
 /*#single-project {
 position: relative;
     right: 145px;
+
+
+
 
 /* about section styles
 /* ========================================== */
